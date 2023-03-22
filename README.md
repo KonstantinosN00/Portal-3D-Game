@@ -1,6 +1,6 @@
 # Portal-3D-Game
 
-INSTALLATION\
+###### Installation
 Use CMakeLists.txt file to build project with CMake and run the solution created (VVR_OGL_LABORATORY.sln)
 
 
